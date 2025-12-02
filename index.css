@@ -91,3 +91,18 @@ footer {
   padding: 0.75rem;
   overflow: hidden;
 }
+.masthead {
+  background-color: #052962; /* Guardian blue */
+}
+
+.navbar-nav .nav-link {
+  color: white !important;
+  margin-left: 1rem;
+}
+
+.navbar-nav .nav-link:hover{
+  color: #f1c40f !important; /* yellow hover */
+}
+.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.6);
+}
