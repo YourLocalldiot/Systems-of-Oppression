@@ -30,14 +30,6 @@ body {
   margin-right: 1rem;
   font-family: "Noticia Text", serif;
 }
-.hero {
-  background: #f5f5f5;
-  padding: 1.5rem;
-}
-.hero .card-img-top {
-  object-fit: cover;
-  height: 320px;
-}
 .article-card .card-title {
   font-size: 1rem;
   font-weight: 600;
@@ -53,7 +45,6 @@ body {
 footer {
   background: #f8f9fa;
   padding: 1.5rem 0;
-  margin-top: 2rem;
 }
 @media (max-width: 767px) {
   .hero .card-img-top {
@@ -67,10 +58,6 @@ h4,
 h5,
 h6 {
   font-family: "Noticia Text", serif;
-}
-footer {
-  margin-top: 40px;
-  padding: 20px 0;
 }
 .article-card {
   display: flex;

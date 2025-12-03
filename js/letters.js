@@ -1,4 +1,4 @@
-fetch("./letters.json")
+fetch("../json/letters.json")
   .then((response) => response.json())
   .then((data) => {
     const container = document.getElementById("lettersContainer");
@@ -12,9 +12,8 @@ fetch("./letters.json")
         : "";
 
       cardCol.innerHTML = `
-        <a href="./lettercard.html?id=${index}" style="text-decoration: none; color: inherit;">
+        <a href="../html/lettercard.html?id=${index}" style="text-decoration: none; color: inherit;">
           <div class="card shadow-sm article-card h-100 d-flex flex-column">
-            
             <div class="image-wrapper" style="width: 100%;">
               <img 
                 src="${
