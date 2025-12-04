@@ -47,11 +47,21 @@
               class="navbar-nav ms-auto mb-2 mb-md-0"
               style="font-family: 'Noticia Text', serif"
             >
-              <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
-              <li class="nav-item"><a class="nav-link" href="../html/letters.html">Letters</a></li>
-              <li class="nav-item"><a class="nav-link" href="../html/context.html">Context</a></li>
-              <li class="nav-item"><a class="nav-link" href="../html/quizzes.html">Quizzes</a></li>
-              <li class="nav-item"><a class="nav-link" href="../html/about.html">About us</a></li>
+              <li class="nav-item">
+                <a class="nav-link" href="../index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../html/letters.html">Letters</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../html/context.html">Context</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../html/quizzes.html">Quizzes</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../html/about.html">About us</a>
+              </li>
             </ul>
           </div>
         </div>
@@ -60,9 +70,12 @@
 
     <!-- MAIN CONTENT -->
     <main class="container mt-5">
-
       <!-- Title -->
-      <h1 id="contextTitle" class="mb-3" style="font-family: 'Noticia Text', serif"></h1>
+      <h1
+        id="contextTitle"
+        class="mb-3"
+        style="font-family: 'Noticia Text', serif"
+      ></h1>
 
       <!-- Date -->
       <p id="contextDate" class="text-muted"></p>
@@ -71,28 +84,69 @@
       <img
         id="contextImage"
         class="img-fluid rounded mb-4"
-        style="width: 100%; object-fit: cover;"
+        style="width: 100%; object-fit: cover"
       />
 
       <!-- Content -->
       <article
         id="contextContent"
         class="mt-4"
-        style="font-family: 'Mulish', sans-serif; line-height: 1.7; white-space: pre-wrap;"
+        style="
+          font-family: 'Mulish', sans-serif;
+          line-height: 1.7;
+          white-space: pre-wrap;
+        "
       ></article>
     </main>
 
     <!-- FOOTER -->
     <footer class="container-fluid py-3" style="background-color: #f8f9fa">
       <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <p class="mb-0">© Your Site — inspired by The Guardian homepage.</p>
+        <div class="row align-items-center">
+          <!-- Left Side: Logo + Inspired text -->
+          <div class="col-md-6 d-flex align-items-center">
+            <a
+              class="navbar-brand site-logo"
+              href="./index.html"
+              style="font-family: 'Noticia Text', serif; color: #052962"
+            >
+              Systems of Oppression<span class="text-warning">.</span>
+            </a>
+            <span class="ms-2 text-muted" style="font-size: 0.9rem">
+              inspired by the Guardian
+            </span>
           </div>
-          <div class="col-md-6 text-md-end">
-            <small class="text-muted">
-              News • Opinion • Sport • Culture • Lifestyle
-            </small>
+
+          <!-- Right Side: Header navigation items -->
+          <div class="col-md-6">
+            <ul
+              class="nav justify-content-md-end"
+              style="font-family: 'Mulish', serif; font-size: 0.95rem"
+            >
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="./index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="./html/letters.html"
+                  >Letters</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="./html/context.html"
+                  >Context</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="./html/quizzes.html"
+                  >Quizzes</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-dark" href="./html/about.html"
+                  >About us</a
+                >
+              </li>
+            </ul>
           </div>
         </div>
       </div>

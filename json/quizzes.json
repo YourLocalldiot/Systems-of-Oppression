@@ -1,0 +1,180 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why does the writer accuse Netanyahu of continuing violence even after the ceasefire?",
+      "options": [
+        "The Israeli economy collapsed",
+        "Over 100 Palestinians were killed after the ceasefire",
+        "He refused negotiations with global leaders",
+        "Troops withdrew too early"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which areas does Khoi Nguyen describe as common targets of Israeli strikes?",
+      "options": [
+        "Power plants",
+        "Military bases",
+        "Residential areas, schools, and hospitals",
+        "Border checkpoints"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What argument does Khoi Nguyen make when comparing Netanyahu’s actions to WWII bombings?",
+      "options": [
+        "WWII actions justify modern conflict",
+        "Modern actions are less harmful",
+        "WWII shouldn’t be used as justification for current violence",
+        "Both situations are identical"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "How does Tu Ho metaphorically describe censorship?",
+      "options": [
+        "A wall",
+        "A picture frame that shapes humans",
+        "A flashlight",
+        "A locked door"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What does Tu Ho describe as the ‘deeper and unsettling truth’ of censorship?",
+      "options": [
+        "It protects national identity",
+        "It encourages creativity",
+        "It decides who speaks and who is silenced",
+        "It prevents misinformation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which real event does Tu Ho use as an example of censorship’s harm?",
+      "options": [
+        "A journalist’s disappearance",
+        "The death of Yu Mengkong",
+        "A banned documentary",
+        "A major protest"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "According to Tu Ho, who benefits most from censorship?",
+      "options": [
+        "Students",
+        "Minorities",
+        "Those in positions of power",
+        "The global economy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "How many people does Triet Le state were killed by police in America this year?",
+      "options": [
+        "100+",
+        "250+",
+        "Over 500",
+        "Over 1,000"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What percentage of the U.S. population does Triet Le identify as Black?",
+      "options": [
+        "5%",
+        "10%",
+        "13%",
+        "18%"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "According to Triet Le, what stereotype do people often assume in police shootings?",
+      "options": [
+        "Police were inexperienced",
+        "The Black victim was at fault",
+        "Police acted heroically",
+        "The victim had a weapon"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Which personal experience does Triet Le mention to dispute stereotypes about Black people?",
+      "options": [
+        "Working in a mixed-race organisation",
+        "Growing up in a diverse community",
+        "Having many Black friends who were kind and funny",
+        "Volunteering in a racial justice group"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "In which historical period does Giang say Jewish people were forced into moneylending?",
+      "options": [
+        "Classical Antiquity",
+        "The Middle Ages",
+        "The Enlightenment",
+        "The Cold War"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which three Nazis does Giang Vu identify as orchestrators of the Holocaust?",
+      "options": [
+        "Goebbels, Göring, and Speer",
+        "Hitler, Eichmann, and Himmler",
+        "Stalin, Beria, and Molotov",
+        "Franco, Mussolini, and Pavelic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which Jewish individuals are listed as major contributors to humanity?",
+      "options": [
+        "Harari, Spielberg, and Sorkin",
+        "Einstein, Mark Zuckerberg, and Larry Page",
+        "Carl Sagan, Ben Shapiro, and Sasha Baron Cohen",
+        "Turing, Hawking, and Gates"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Why do Vu’s classmates discriminate against the Jewish student?",
+      "options": [
+        "Academic competition",
+        "Political disagreements",
+        "They blame the student for personal psychological issues",
+        "Because the student has mental problems, and they are Jewish"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "What is Vu’s main concluding message?",
+      "options": [
+        "People should be judged by their achievements only",
+        "Every person is complex and cannot be reduced to stereotypes",
+        "Jewish people must distance themselves from conflict",
+        "Governments must apologise for historical injustices"
+      ],
+      "answer": 1
+    }
+  ]
+}
